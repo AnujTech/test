@@ -1,3 +1,3 @@
 <?php 
-Hi Anuj
+echo "Hi Anuj";
 ?>
